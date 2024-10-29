@@ -1,2 +1,2 @@
 # upgraded-octo-guide
-Dépôt de demonstration
+Dépôt de demonstration pour decouvrir git
